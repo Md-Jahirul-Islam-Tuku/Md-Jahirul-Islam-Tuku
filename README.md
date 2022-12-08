@@ -12,3 +12,7 @@
 ### 👯 I’m looking - For Web Developer position in a company. 
 ### 🤔 I’m trying - To learn Next.js. 
 ### ⚡ Fun fact - I love to learn web development
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Md-Jahirul-Islam-Tuku)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Md-Jahirul-Islam-Tuku)  
