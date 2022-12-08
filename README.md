@@ -13,9 +13,9 @@
 ### 🤔 I’m trying - To learn Next.js. 
 ### ⚡ Fun fact - I love to learn web development
 
-## :computer: Technologies that I know
+<br />
+## :computer: Knowledge and Skills
 
-<br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
