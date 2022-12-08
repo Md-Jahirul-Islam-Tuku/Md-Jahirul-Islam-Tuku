@@ -13,6 +13,15 @@
 ### 🤔 I’m trying - To learn Next.js. 
 ### ⚡ Fun fact - I love to learn web development
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Md-Jahirul-Islam-Tuku)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Md-Jahirul-Islam-Tuku)  
+## :computer: Technologies that I know
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+</p><br/>
