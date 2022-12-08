@@ -9,6 +9,6 @@
 
 ### 🔭 I’m working - In My Own Establishment. 
 ### 🌱 I’m exploring - React.js. 
-### 👯 I’m looking - To collaborate on open source projects. 
+### 👯 I’m looking - For Web Developer position in a company. 
 ### 🤔 I’m trying - To learn Next.js. 
 ### ⚡ Fun fact - I love to learn web development
