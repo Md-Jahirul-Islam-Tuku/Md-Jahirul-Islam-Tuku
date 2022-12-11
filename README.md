@@ -8,7 +8,7 @@
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png">](https://www.linkedin.com/in/md-jahirul-islam-tuku/)[<img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png">](https://jahirul-islam-tuku.web.app/)[<img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png"></p>](https://www.facebook.com/jahirulislamtuku)
 
 
-## 👀: Current overview
+## 👀 Current overview
 <br/>
 
 ### 🌍  I'm from Bangladesh.
@@ -40,5 +40,4 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahirul-islam-tuku&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" /><br/>
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=md-jahirul-islam-tuku&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-jahirul-islam-tuku&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" />
 </p>
