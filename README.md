@@ -1,4 +1,7 @@
-<h4 className='lg:text-left text-xl text-center lg:font-semibold my-2 text-yellow'>Web Developer || MERN Stack Developer || Software Development</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Bug+Hunter+%7C%7C+Web+developer+%7C%7C+Game+Enthusiastic;Html+%7C%7C+Css+%7C%7C+javascript+%7C%7C+Python;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="keagtorb">
+</p>
+<hr/>
 
 ![Web Developer || MERN Stack Developer || Software Development](https://media-exp1.licdn.com/dms/image/D5616AQH9oIzVnFT28g/profile-displaybackgroundimage-shrink_350_1400/0/1669729869100?e=1675900800&v=beta&t=AewsxH3JcXIhOSrOvX0lqav3turITUcOwEELOiRTo0Q)
 
