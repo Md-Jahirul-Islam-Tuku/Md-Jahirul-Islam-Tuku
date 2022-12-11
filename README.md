@@ -8,6 +8,7 @@
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png">](https://www.linkedin.com/in/md-jahirul-islam-tuku/)[<img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png">](https://jahirul-islam-tuku.web.app/)[<img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png"></p>](https://www.facebook.com/jahirulislamtuku)
 
 <br/>
+<hr/>
 
 ### 🌍  I'm from Bangladesh.
 ### 🔭 I’m working - on Web Development in my establishment. 
@@ -15,6 +16,9 @@
 ### 👯 I’m looking - For Web Developer position in a company. 
 ### 🤔 I’m trying - To learn Next.js. 
 ### ⚡ Fun fact - I love to learn web development
+
+<br/>
+<hr/>
 
 ## :computer: Knowledge and Skills
 <br/>
