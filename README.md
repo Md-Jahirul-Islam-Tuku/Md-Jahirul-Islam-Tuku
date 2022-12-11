@@ -8,6 +8,11 @@
 [<p align="center"><img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png">](https://www.linkedin.com/in/md-jahirul-islam-tuku/)[<img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png">](https://jahirul-islam-tuku.web.app/)[<img height="75" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png"></p>](https://www.facebook.com/jahirulislamtuku)
 
 <br/>
+## :eyes: Current overview
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/md-jahirul-islam-tuku/Md-Jahirul-Islam-Tuku/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
 
 ### 🌍  I'm from Bangladesh.
 ### 🔭 I’m working - on Web Development in my establishment. 
