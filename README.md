@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Bug+Hunter+%7C%7C+Web+developer+%7C%7C+Game+Enthusiastic;Html+%7C%7C+Css+%7C%7C+javascript+%7C%7C+Python;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="keagtorb">
-</p>
 <hr/>
 
 ![Web Developer || MERN Stack Developer || Software Development](https://media-exp1.licdn.com/dms/image/D5616AQH9oIzVnFT28g/profile-displaybackgroundimage-shrink_350_1400/0/1669729869100?e=1675900800&v=beta&t=AewsxH3JcXIhOSrOvX0lqav3turITUcOwEELOiRTo0Q)
@@ -32,10 +29,11 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p>
 <br/>
+<hr/>
 
 ## :chart_with_upwards_trend: Current Stats
 
 <br/>
 <p align="center">
-(https://github-readme-streak-stats.herokuapp.com/?user=keagtorb&theme=radical&hide_border=false)
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
