@@ -11,7 +11,7 @@
 ## 👀 Current overview
 <br/>
 
-### :bangladesh: I'm from Bangladesh.
+### 🌏 I'm from Bangladesh.
 ### 🔭 I’m working - on Web Development in my establishment. 
 ### 🌱 I’m exploring - React.js. 
 ### 👯 I’m looking - For Web Developer position in a company. 
