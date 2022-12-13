@@ -31,6 +31,8 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://i.ibb.co/fqR776P/git.png"/>
+<img src="https://i.ibb.co/hd0HQsM/figma.png"/>
 </p>
 <br/>
 
