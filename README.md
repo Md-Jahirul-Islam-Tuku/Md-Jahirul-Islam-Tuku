@@ -5,7 +5,7 @@
 ## :mailbox: Connect with me
 <br/>
 
-[<p align="center"><img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png">](https://www.linkedin.com/in/md-jahirul-islam-tuku/)[<img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png">](https://jahirul-islam-tuku.web.app/)[<img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png"></p>](https://www.facebook.com/jahirulislamtuku)
+[<p align="center"><img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/in.png" target="_blank">](https://www.linkedin.com/in/md-jahirul-islam-tuku/)[<img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/pf.png" target="_blank">](https://jahirul-islam-tuku.web.app/)[<img height="50" src="https://raw.githubusercontent.com/Md-Jahirul-Islam-Tuku/Md-Jahirul-Islam-Tuku/main/images/f.png" target="_blank"></p>](https://www.facebook.com/jahirulislamtuku)
 
 
 ## 👀 Current overview
