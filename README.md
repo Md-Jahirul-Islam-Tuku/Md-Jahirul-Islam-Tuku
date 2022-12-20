@@ -33,6 +33,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://i.ibb.co/fqR776P/git.png"/>
 <img src="https://i.ibb.co/hd0HQsM/figma.png"/>
+<img src="https://i.ibb.co/tzWktvr/mongodb.png"/>
 </p>
 <br/>
 
