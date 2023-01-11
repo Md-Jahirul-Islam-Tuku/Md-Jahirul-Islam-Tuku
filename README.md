@@ -1,6 +1,6 @@
 <hr/>
 
-![Web Developer || MERN Stack Developer || Software Development](https://media-exp1.licdn.com/dms/image/D5616AQH9oIzVnFT28g/profile-displaybackgroundimage-shrink_350_1400/0/1669729869100?e=1675900800&v=beta&t=AewsxH3JcXIhOSrOvX0lqav3turITUcOwEELOiRTo0Q)
+![Web Developer || MERN Stack Developer || Software Development](https://media.licdn.com/dms/image/D5616AQE9cbRLIejQ3w/profile-displaybackgroundimage-shrink_350_1400/0/1673438752187?e=1678924800&v=beta&t=HszH_W-j9GLSrSi5RN0uJlli5Km-kPIhX2Rwmwpiw-Q)
 
 ## :mailbox: Connect with me
 <br/>
